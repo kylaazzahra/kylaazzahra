@@ -14,6 +14,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)  
 ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)  
 
+## 📈 GitHub Stats  
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kylaazzahra&theme=radical" alt="GitHub Streak" />
 </div>
