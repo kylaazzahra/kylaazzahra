@@ -6,6 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’ve created a mobile app UI for game top-ups and won the Best Presentation Award at an environmental essay competition!
 - 🔧 Tools % Language Programming :
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  
 ![Golang](https://img.shields.io/badge/-Golang-333?style=flat&logo=go)  
