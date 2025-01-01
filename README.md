@@ -20,7 +20,7 @@ I'm an **Information Technology student** passionate about:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kylaazzahra&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylaazzahra&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylaazzahra&layout=compact&theme=radical" alt="Most Used Languages" height="165" />
 </div>
 
 ---
