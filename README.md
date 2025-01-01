@@ -54,10 +54,6 @@ I'm an **Information Technology student** passionate about:
 ## 🎨 My Projects  
 ### 🌐 Web Development  
 - [MasKuy](https://github.com/kylaazzahra/maskuy): Online ticket booking for Taman Mas Kemambang  
-- [TanemYuk](https://github.com/kylaazzahra/tanemyuk): Plant recommendation website  
-
-### 📊 Data Analysis  
-- [Student Performance Prediction](https://github.com/kylaazzahra/student-prediction): Predict academic performance using CatBoost Algorithm  
 
 ---
 
