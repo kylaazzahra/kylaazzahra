@@ -14,8 +14,7 @@ I'm an **Information Technology student** passionate about:
 - **Smart Systems** 🤖  
 
 🌱 **Currently learning**: Backend Development & AI Algorithms  
-😄 **Pronouns**: She/Her  
-⚡ **Fun fact**: I’ve created a mobile app UI for game top-ups and won the Best Presentation Award at an environmental essay competition!  
+😄 **Pronouns**: She/Her    
 
 ---
 
@@ -28,7 +27,6 @@ I'm an **Information Technology student** passionate about:
 
 ## 🏆 Achievements  
 - 🏅 **Best Presentation Award**: Environmental Essay Competition (ESSAC 2024)  
-- 🎨 Designed a **mobile app UI** for game top-ups  
 
 ---
 
