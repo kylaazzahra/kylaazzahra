@@ -51,7 +51,7 @@ I'm an **Information Technology student** passionate about:
 
 ## 🎨 My Projects  
 ### 🌐 Web Development  
-- [MasKuy](maskuy.my.id): Online ticket booking for Taman Mas Kemambang  
+- [MasKuy](https://github.com/kylaazzahra/Maskuy.git): Online ticket booking for Taman Mas Kemambang  
 
 ---
 
