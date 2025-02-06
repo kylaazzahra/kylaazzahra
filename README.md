@@ -65,7 +65,7 @@ I’m open to collaborating on:
 
 ## 📫 Contact Me  
 📧 Email: [kylaazzahrak22@gmail.com](mailto:kylaazzahrak22@gmail.com)  
-💼 LinkedIn: [Kyla Azzahra Kinan](https://www.linkedin.com/in/kylaazzahrak22)  
+💼 LinkedIn: [Kyla Azzahra Kinan](https://www.linkedin.com/in/kyla-azzahra-kinan)  
 
 ---
 
