@@ -13,7 +13,7 @@ I'm an **Information Technology student** passionate about:
 - **Web Development** 🌐  
 - **Smart Systems** 🤖  
 
-🌱 **Currently learning**: Backend Development & AI Algorithms  
+🌱 **Currently learning**: AI Algorithm, Machine Learning  
 😄 **Pronouns**: She/Her    
 
 ---
